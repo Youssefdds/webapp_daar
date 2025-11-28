@@ -1,0 +1,19 @@
+# Django framework
+Django==5.2.8
+
+# Django REST framework
+djangorestframework==3.16.0
+
+# CORS headers
+django-cors-headers==4.3.0
+
+# HTTP requests library
+requests==2.31.0
+
+# Elasticsearch Python client
+elasticsearch==8.11.1
+networkx
+gunicorn==22.0.0
+numpy
+scipy
+pathlib
